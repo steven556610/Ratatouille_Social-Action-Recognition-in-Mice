@@ -53,7 +53,17 @@ video_id - A unique identifier for the video.
 
 ## thoughts
 
+
 ## literature
+
+## co-work pattern
+
+有建立 data/, src/ 並且會把資料放在data/，裡面放.zip
+
+```
+cd data/
+unzip MABe-mouse-behavior-detection.zip
+```
 
 
 
