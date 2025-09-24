@@ -57,13 +57,17 @@ video_id - A unique identifier for the video.
 ## literature
 
 ## co-work pattern
+use fork! 
 
-有建立 data/, src/ 並且會把資料放在data/，裡面放.zip
-
-```
+::: spoiler data get
+``` linux
+mkdir data/
 cd data/
+pull downlaod data here
 unzip MABe-mouse-behavior-detection.zip
 ```
+:::
+
 
 
 
