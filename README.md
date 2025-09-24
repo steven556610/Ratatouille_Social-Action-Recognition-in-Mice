@@ -68,6 +68,11 @@ pull downlaod data here
 unzip MABe-mouse-behavior-detection.zip
 ```
 
+### env create
+```
+pip isntall -r requirements.txt
+```
+
 
 
 
