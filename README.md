@@ -59,7 +59,7 @@ video_id - A unique identifier for the video.
 ## co-work pattern
 use fork! 
 
-::: spoiler data get
+### data get
 
 ``` linux
 mkdir data/
@@ -67,7 +67,7 @@ cd data/
 pull downlaod data here
 unzip MABe-mouse-behavior-detection.zip
 ```
-:::
+
 
 
 
